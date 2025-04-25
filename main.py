@@ -6,3 +6,5 @@ print(f"{hello}, {world}!")
 bye = "Bye"
 
 print(f"{bye}, {world}...")
+
+print("teste de funcionalidade")
